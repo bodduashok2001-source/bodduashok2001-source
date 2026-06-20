@@ -1,4 +1,4 @@
-# Hi, I'm Ashok Boddu 👋
+# Hi, I'm Ashok 👋
 
 ### Embedded Systems Engineer | Firmware Developer | Linux Device Driver Enthusiast
 
@@ -7,7 +7,8 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-FPGA-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-AI-red?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-FPGA-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -16,58 +17,13 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 
 🔹 Embedded Systems & Firmware Development
 
-🔹 ARM Cortex-M Microcontrollers (STM32)
+🔹 ARM Cortex-M (STM32) and Real-Time Embedded Applications
 
-🔹 Linux Device Driver Development
+🔹 Embedded Linux & Device Driver Development
 
 🔹 FPGA Design using Verilog
 
-🔹 Embedded Linux & Kernel Programming
-
-🔹 Real-Time Embedded Applications
-
 🔹 Exploring Deep Learning for Edge Devices
-
----
-
-## 🛠 Technical Skills
-
-### Programming Languages
-- C
-- Embedded C
-
-### Embedded Systems
-- STM32
-- ARM Cortex-M
-- UART
-- SPI
-- I2C
-- ADC
-- DMA
-- Timers
-- Interrupts
-- GPIO
-
-### Embedded Linux
-- Linux Character Device Drivers
-- Kernel Module Development
-- Driver Debugging
-- Sysfs / Procfs
-- Device Tree Basics
-
-### FPGA & Digital Design
-- Verilog HDL
-- FSM Design
-- Digital Logic Design
-- Xilinx Vivado
-
-### Development Tools
-- STM32CubeMX
-- STM32CubeIDE
-- Keil µVision
-- Vivado
-- Git
-- GitHub
 
 ---
 
@@ -77,19 +33,6 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 A modular Linux-based sensor hub framework supporting multiple sensor interfaces and scalable driver architecture.
 
 **Tech Stack:** Linux, Device Drivers, Kernel Modules, C
-
----
-
-### 🔹 Linux Character Device Drivers
-Collection of Linux character device drivers demonstrating kernel-space programming concepts.
-
-**Highlights:**
-- Character Driver Implementation
-- Kernel Module Development
-- User-Kernel Communication
-- Driver Testing & Debugging
-
-**Tech Stack:** C, Linux Kernel
 
 ---
 
@@ -106,24 +49,52 @@ Real-time temperature monitoring application built on STM32 microcontrollers.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠 Technical Skills
 
-- Advanced Linux Device Drivers
-- Embedded Linux Architecture
-- RTOS Concepts
-- FPGA Design & Verification
-- Deep Learning for Embedded Systems
+### Programming Languages
+- C
+- Embedded C
+
+### Embedded Systems
+- STM32 (ARM Cortex-M)
+- GPIO, Timers, Interrupts
+- UART, SPI, I2C
+- ADC, DMA
+
+### Embedded Linux
+- Linux Device Driver Development
+- Kernel Module Development
+- Sensor Driver Integration
+- Sysfs / Procfs
+- Device Tree
+- Driver Debugging
+
+### FPGA & Digital Design
+- Basic Verilog
+- FSM Design
+- Digital Logic Design
+- Xilinx Vivado
+
+### Development Tools
+- STM32CubeMX
+- STM32CubeIDE
+- Keil µVision
+- Xilinx Vivado
+- Git
+
+### Platforms & Environments
+- Linux
+- Google Colab
 
 ---
 
 ## 📈 Career Interests
 
 - Embedded Firmware Development
-- Embedded Linux Development
-- Linux Device Drivers
+- Embedded Linux & Device Drivers
+- FPGA/SoC Development
 - BSP Development
 - ARM Cortex-M Programming
-- FPGA/SoC Development
 
 ---
 
@@ -136,7 +107,3 @@ https://github.com/bodduashok2001-source
 www.linkedin.com/in/boddu-ashok-contact-me
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy building systems from the hardware level up to the firmware layer and continuously learning how software interacts directly with silicon.
