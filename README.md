@@ -7,8 +7,8 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C62828?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -29,14 +29,14 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 
 ## 📌 Featured Projects
 
-### 🔹 Industrial Embedded Linux Sensor Hub Framework
+### 🔹 [Industrial Embedded Linux Sensor Hub Framework](https://github.com/bodduashok2001-source/Industrial-Embedded-Linux-Sensor-Hub-Framework)
 A modular Linux-based sensor hub framework supporting multiple sensor interfaces and scalable driver architecture.
 
 **Tech Stack:** Linux, Device Drivers, Kernel Modules, C
 
 ---
 
-### 🔹 STM32 Temperature Monitoring System
+### 🔹 [STM32 Temperature Monitoring System](https://github.com/bodduashok2001-source/STM32-Temperature-Monitoring-System)
 Real-time temperature monitoring application built on STM32 microcontrollers.
 
 **Features:**
