@@ -32,6 +32,12 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 ### 🔹 [Industrial Embedded Linux Sensor Hub Framework](https://github.com/bodduashok2001-source/Industrial-Embedded-Linux-Sensor-Hub-Framework)
 A modular Linux-based sensor hub framework supporting multiple sensor interfaces and scalable driver architecture.
 
+**Features:**
+- Modular Sensor Driver Architecture
+- Multi-Sensor Interface Support
+- Linux Kernel Module Integration
+- Scalable Device Driver Framework
+
 **Tech Stack:** Linux, Device Drivers, Kernel Modules, C
 
 ---
@@ -52,7 +58,27 @@ Real-time temperature monitoring application built on STM32 microcontrollers.
 ### 🔹 [FPGA-Based-CAN-Timing-Anomaly-Detector](https://github.com/bodduashok2001-source/FPGA-Based-CAN-Timing-Anomaly-Detector)
 FPGA-based Controller Area Network (CAN) timing anomaly detection system that monitors CAN bus traffic in real time and identifies timing irregularities using hardware-accelerated logic. Designed for low-latency intrusion detection and automotive network security.
 
+**Features:**
+- Real-Time CAN Bus Monitoring
+- Timing Anomaly Detection
+- Hardware-Accelerated Processing
+- Low-Latency Intrusion Detection
+
 **Tech Stack:** FPGA, Verilog, CAN Protocol, Xilinx Vivado, Digital Logic Design
+
+---
+
+### 🔹 [Edge-AI-Visual-Recognition](https://github.com/bodduashok2001-source/Edge-AI-Visual-Recognition)
+Real-time Edge AI computer vision application that performs live image classification using OpenCV and TensorFlow. Designed to explore lightweight deep learning inference and model optimization for edge devices.
+
+**Features:**
+- Live Camera Image Classification
+- MobileNetV2 Inference
+- OpenCV Video Processing
+- TensorFlow Lite & ONNX Runtime *(In Progress)*
+- Performance Benchmarking *(Planned)*
+
+**Tech Stack:** Python, OpenCV, TensorFlow, TensorFlow Lite, ONNX Runtime, NumPy
 
 ---
 
