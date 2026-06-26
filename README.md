@@ -7,7 +7,7 @@ Passionate about designing reliable embedded systems, developing low-level firmw
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F26?style=for-the-badge&logo=xilinx&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C62828?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -46,6 +46,13 @@ Real-time temperature monitoring application built on STM32 microcontrollers.
 - Real-time Data Monitoring
 
 **Tech Stack:** STM32, ARM Cortex-M, Embedded C
+
+---
+
+### 🔹 [FPGA-Based-CAN-Timing-Anomaly-Detector](https://github.com/bodduashok2001-source/FPGA-Based-CAN-Timing-Anomaly-Detector)
+FPGA-based Controller Area Network (CAN) timing anomaly detection system that monitors CAN bus traffic in real time and identifies timing irregularities using hardware-accelerated logic. Designed for low-latency intrusion detection and automotive network security.
+
+**Tech Stack:** FPGA, Verilog, CAN Protocol, Xilinx Vivado, Digital Logic Design
 
 ---
 
